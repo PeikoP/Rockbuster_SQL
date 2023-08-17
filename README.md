@@ -1,4 +1,4 @@
-# Rockbuster SQL Project
+# **Rockbuster SQL Project**
 
 ## Introduction
 
