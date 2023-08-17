@@ -18,8 +18,29 @@ Key Questions include:
 
 ## Data Set
 
-The data set has been provided by Rockbuster.
+The data set has been provided by Rockbuster and was organized as follows:
 
+### Fact Tables
+- Payment
+- Rental
 
-## Data
+### Dimension Tables
+- Actor
+- Address
+- Category
+- City
+- Country
+- Customer
+- Film
+- Film Actor
+- Film Category
+- Inventory
+- Language
+- Staff
+- Store
+
+## Visualizations
+
+Any visualizations for this project were created with Tableau and can be seen here - https://public.tableau.com/app/profile/paige.p./viz/3_10RockbusterDashboard/3_10Charts
+
 
